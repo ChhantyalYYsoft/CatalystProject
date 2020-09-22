@@ -26,4 +26,5 @@ Example:
 	* Only be a single PHP file
 
 Example:
+
 	* PHP foobar.php
