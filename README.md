@@ -13,6 +13,7 @@ Script Command Line Directives
 	* --help – which will output the above list of directives with details
 
 Example:
+
 	* PHP user_upload.php --file users.csv --create_table -u root -p root -h 127.0.0.1
 	* PHP user_upload.php --file users.csv --dry_run -u root -p root -h 127.0.0.1
 	* PHP user_upload.php --help
